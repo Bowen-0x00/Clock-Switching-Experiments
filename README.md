@@ -39,3 +39,14 @@
 时钟切换中，哪怕多一些延迟，我们也不希望有毛刺。
 
 这里控制信号以及对方反馈来的信号相对当前时钟都是异步信号，为了避免亚稳态，采用典型2级触发器来实现同步。
+
+
+# 电路2
+![](images/circuit2.excalidraw.svg)
+
+# 电路3
+![](images/circuit23.excalidraw.svg)
+
+
+# 电路4
+![](images/circuit4.excalidraw.svg)
