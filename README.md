@@ -45,7 +45,7 @@
 ![](images/circuit2.excalidraw.svg)
 
 # 电路3
-![](images/circuit23.excalidraw.svg)
+![](images/circuit3.excalidraw.svg)
 
 
 # 电路4
